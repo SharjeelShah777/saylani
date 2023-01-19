@@ -1,0 +1,51 @@
+.hd{
+    
+    color: black;
+}
+.dh{
+    height: 35px;
+    background-color: #eee;
+    border-bottom: 1px slid rgb(65, 60, 60);
+}
+.fcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+}
+.fitem{
+    padding-inline: 10px;
+     
+
+}
+.bt:hover{
+    transform:scale(1.3);
+}
+.a{
+    color: green;
+}
+.para{
+    margin-top: 65px;
+    margin-left: 80px;
+}
+.b{
+    margin-top: 50px;
+    margin-left: 80px;
+
+}
+.cn{
+    margin-left: 80px;
+
+}
+.tb{
+    margin-top: 50px;
+    margin-left: 80px;
+}
+.dcontainer{
+    background-color: rgb(100, 121, 100);
+    height: 60vh;
+    width: 75vw;
+}
+.container{
+    margin-top: 80px;
+}
